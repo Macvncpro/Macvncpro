@@ -13,17 +13,20 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Macvncpro/Dissertation-EPHR">Dissertation EPHR</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Macvncpro/Dissertation-EPHR">Dissertation EPHR</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Tools & Platforms
+
+- **Office & Productivity:** Excel, PowerPoint, Word
+- **Development Environments:** Visual Studio Code, Android Studio  
+- **Version Control & Collaboration:** Git, GitHub, GitLab  
+- **Build & Deployment:** Gradle, Docker 
+- **Databases:** MySQL, PostgreSQL
+- **Web Development:** HTML, CSS, SCSS, JavaScript, Haml 
 
 ## Projects
 - Dissertation EPHR
-
+- Coming Soon!
 
 <!--
 **Macvncpro/Macvncpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
